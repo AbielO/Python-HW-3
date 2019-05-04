@@ -1,0 +1,7 @@
+Financial Analysis
+--------------------------
+f'Total Months: {number_months}'
+f'Total: ${profit}'
+f'Average Change: ${average}'
+f'Greatest Increase in Profits: ${max_profit}'
+f'Greatest Decrease in Profits: ${max_loss}'

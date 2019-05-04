@@ -1,0 +1,11 @@
+Election Results
+---------------------
+f'Total Votes: {number_votes}'
+---------------------}
+f'Khan : {KP} {KV}'
+f'Correy : {CP}, {CV}'
+f'Li : {LP}, {LV}'
+f'OTooley : {OP}, {OV}'
+-------------------
+f'Winner: {CW}'
+-------------------
